@@ -26,7 +26,7 @@ const Header = () => (
         />
         <ul className="nav-menu">
           <li className=" nav-menu-item">Home</li>
-          <li className=" nav-menu-item">Product</li>
+          <li className=" nav-menu-item">Products</li>
           <li className=" nav-menu-item">Cart</li>
         </ul>
         <button type="button" className="logout-desktop-btn">
